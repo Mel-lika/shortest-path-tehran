@@ -1,0 +1,9 @@
+osmnx
+networkx
+geopandas
+shapely
+matplotlib
+ipyleaflet
+ipywidgets
+numpy
+pandas
