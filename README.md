@@ -46,7 +46,7 @@ The project combines graph algorithms with spatial data analysis to demonstrate 
 > Screenshot after computing the shortest route.
 
 <p align="center">
-<img src="images/shortest_path.png" width="900">
+<img src="images/shortestpath.png" width="900">
 </p>
 
 ---
